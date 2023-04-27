@@ -27,6 +27,6 @@ public class LerAluno
         }
         ler.close();
         System.exit(0);
-    } // fim do método
-} // fim da classe
+    }
+}
 

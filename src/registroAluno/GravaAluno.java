@@ -33,5 +33,5 @@ public class GravaAluno {
         }
         writer.close();
         System.exit(0);
-    } // fim do método
-} // fim da classe
+    }
+}

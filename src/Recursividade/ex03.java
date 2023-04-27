@@ -1,4 +1,4 @@
-package EstruturaDeDados;
+package Recursividade;
 
 import java.util.*;
 public class ex03 {
